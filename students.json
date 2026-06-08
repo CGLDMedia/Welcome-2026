@@ -1,20 +1,788 @@
 {
   "1": {
-    "name": "John Samuel",
-    "reg": "Master of Divinity I",
-    "verse": "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future.",
+    "name": "Thokal Joy Bhagwan",
+    "reg": "Master of Divinity",
+    "verse": "For I know the plans I have for you... plans to give you hope and a future.",
     "reference": "Jeremiah 29:11"
   },
   "2": {
-    "name": "David Paul",
-    "reg": "CGLD2026-002",
-    "verse": "Trust in the Lord with all your heart and lean not on your own understanding.",
-    "reference": "Proverbs 3:5"
+    "name": "Uthayaraj V",
+    "reg": "Master of Divinity",
+    "verse": "Trust in the LORD with all your heart and lean not on your own understanding.",
+    "reference": "Proverbs 3:5-6"
   },
   "3": {
-    "name": "Samuel Raj",
-    "reg": "CGLD2026-003",
-    "verse": "Be strong and courageous. Do not be afraid; do not be discouraged.",
+    "name": "Abhishek Prakash Yogi",
+    "reg": "Master of Divinity",
+    "verse": "Be strong and courageous... the LORD your God will be with you wherever you go.",
     "reference": "Joshua 1:9"
+  },
+  "4": {
+    "name": "Jackson Samuel S",
+    "reg": "Master of Divinity",
+    "verse": "He who began a good work in you will carry it on to completion.",
+    "reference": "Philippians 1:6"
+  },
+  "5": {
+    "name": "Jackson Samuvel Durai Y",
+    "reg": "Master of Divinity",
+    "verse": "Take delight in the LORD, and he will give you the desires of your heart.",
+    "reference": "Psalm 37:4"
+  },
+  "6": {
+    "name": "Praison Clement V",
+    "reg": "Master of Divinity",
+    "verse": "Do not fear, for I am with you.",
+    "reference": "Isaiah 41:10"
+  },
+  "7": {
+    "name": "Ezra G",
+    "reg": "Master of Divinity",
+    "verse": "In all things God works for the good of those who love him.",
+    "reference": "Romans 8:28"
+  },
+  "8": {
+    "name": "Herlan Ebenezar Paul H",
+    "reg": "Master of Divinity",
+    "verse": "Seek first his kingdom and his righteousness.",
+    "reference": "Matthew 6:33"
+  },
+  "9": {
+    "name": "Paul Benny Hinn S",
+    "reg": "Master of Divinity",
+    "verse": "Your word is a lamp for my feet, a light on my path.",
+    "reference": "Psalm 119:105"
+  },
+  "10": {
+    "name": "Hebron Sam Jebasingh W",
+    "reg": "Master of Divinity",
+    "verse": "Whatever you do, work at it with all your heart.",
+    "reference": "Colossians 3:23"
+  },
+  "11": {
+    "name": "James Lisu",
+    "reg": "Master of Divinity",
+    "verse": "God gave us a spirit not of fear but of power and love.",
+    "reference": "2 Timothy 1:7"
+  },
+  "12": {
+    "name": "Rinu Roy",
+    "reg": "Master of Divinity",
+    "verse": "Let us not become weary in doing good.",
+    "reference": "Galatians 6:9"
+  },
+  "13": {
+    "name": "Sanderson Paul M",
+    "reg": "Master of Divinity",
+    "verse": "God is our refuge and strength.",
+    "reference": "Psalm 46:1"
+  },
+  "14": {
+    "name": "Johanson Jebaraj",
+    "reg": "Master of Divinity",
+    "verse": "Apart from me you can do nothing.",
+    "reference": "John 15:5"
+  },
+  "15": {
+    "name": "Dara Prem Vikas",
+    "reg": "Master of Divinity",
+    "verse": "We are God's handiwork, created in Christ Jesus to do good works.",
+    "reference": "Ephesians 2:10"
+  },
+  "16": {
+    "name": "Glennpaul S",
+    "reg": "Master of Divinity",
+    "verse": "I will instruct you and teach you in the way you should go.",
+    "reference": "Psalm 32:8"
+  },
+  "17": {
+    "name": "Joel Jose",
+    "reg": "Master of Divinity",
+    "verse": "Those who hope in the LORD will renew their strength.",
+    "reference": "Isaiah 40:31"
+  },
+  "18": {
+    "name": "Munganda Joy Benhanan",
+    "reg": "Master of Divinity",
+    "verse": "If any of you lacks wisdom, you should ask God.",
+    "reference": "James 1:5"
+  },
+  "19": {
+    "name": "Jujjavarapu Krupa Joel",
+    "reg": "Master of Divinity",
+    "verse": "Be transformed by the renewing of your mind.",
+    "reference": "Romans 12:2"
+  },
+  "20": {
+    "name": "Daniel David",
+    "reg": "Master of Divinity",
+    "verse": "Stand firm... always give yourselves fully to the work of the Lord.",
+    "reference": "1 Corinthians 15:58"
+  },
+  "21": {
+    "name": "Moses Premkumar J",
+    "reg": "Master of Divinity",
+    "verse": "My help comes from the LORD.",
+    "reference": "Psalm 121:1-2"
+  },
+  "22": {
+    "name": "Yeddu Deeven Kumar",
+    "reg": "Master of Divinity",
+    "verse": "Fixing our eyes on Jesus, the pioneer and perfecter of faith.",
+    "reference": "Hebrews 12:2"
+  },
+  "23": {
+    "name": "Yeddu Praveen Kumar",
+    "reg": "Master of Divinity",
+    "verse": "Act justly and to love mercy and to walk humbly with your God.",
+    "reference": "Micah 6:8"
+  },
+  "24": {
+    "name": "Sam Giftson Prince S",
+    "reg": "Master of Divinity",
+    "verse": "Set an example for the believers.",
+    "reference": "1 Timothy 4:12"
+  },
+  "25": {
+    "name": "Samuyal Neupane",
+    "reg": "Master of Divinity",
+    "verse": "Let your light shine before others.",
+    "reference": "Matthew 5:16"
+  },
+  "26": {
+    "name": "Arun El Gershom Raja S",
+    "reg": "Master of Divinity",
+    "verse": "The LORD is my light and my salvation.",
+    "reference": "Psalm 27:1"
+  },
+  "27": {
+    "name": "Gladson K Varghese",
+    "reg": "Master of Divinity",
+    "verse": "Take heart! I have overcome the world.",
+    "reference": "John 16:33"
+  },
+  "28": {
+    "name": "Joshua Daniel Raj S",
+    "reg": "Master of Divinity",
+    "verse": "The LORD himself goes before you and will be with you.",
+    "reference": "Deuteronomy 31:8"
+  },
+  "29": {
+    "name": "Saroj Kumar Badanayak",
+    "reg": "Master of Divinity",
+    "verse": "I can do all this through him who gives me strength.",
+    "reference": "Philippians 4:13"
+  },
+  "30": {
+    "name": "Andrew Josuah D",
+    "reg": "Master of Divinity",
+    "verse": "You make known to me the path of life.",
+    "reference": "Psalm 16:11"
+  },
+  "31": {
+    "name": "Ankant I",
+    "reg": "Master of Divinity",
+    "verse": "Cast all your anxiety on him because he cares for you.",
+    "reference": "1 Peter 5:7"
+  },
+  "32": {
+    "name": "Joe Samuel S",
+    "reg": "Master of Divinity",
+    "verse": "Come to me... and I will give you rest.",
+    "reference": "Matthew 11:28"
+  },
+  "33": {
+    "name": "S Samuel Joseph",
+    "reg": "Master of Divinity",
+    "verse": "May the God of hope fill you with all joy and peace.",
+    "reference": "Romans 15:13"
+  },
+  "34": {
+    "name": "Adriel Blesson Suresh",
+    "reg": "Master of Divinity",
+    "verse": "Able to do immeasurably more than all we ask or imagine.",
+    "reference": "Ephesians 3:20"
+  },
+  "35": {
+    "name": "Kevisezo Keditsu",
+    "reg": "Master of Divinity",
+    "verse": "May he give you the desire of your heart.",
+    "reference": "Psalm 20:4"
+  },
+  "36": {
+    "name": "Billy Graham Y",
+    "reg": "Master of Divinity",
+    "verse": "By this everyone will know that you are my disciples.",
+    "reference": "John 13:35"
+  },
+  "37": {
+    "name": "Ebenezer W",
+    "reg": "Master of Divinity",
+    "verse": "Continue to live your lives in him, rooted and built up in him.",
+    "reference": "Colossians 2:6-7"
+  },
+  "38": {
+    "name": "Paul Daniel A",
+    "reg": "Master of Divinity",
+    "verse": "Show me the way I should go.",
+    "reference": "Psalm 143:8"
+  },
+  "39": {
+    "name": "John P Samuvel",
+    "reg": "Master of Divinity",
+    "verse": "His compassions never fail. They are new every morning.",
+    "reference": "Lamentations 3:22-23"
+  },
+  "40": {
+    "name": "Jeronhenolyraj A",
+    "reg": "Master of Divinity",
+    "verse": "Jesus Christ is the same yesterday and today and forever.",
+    "reference": "Hebrews 13:8"
+  },
+  "41": {
+    "name": "Stephenson R",
+    "reg": "Master of Divinity",
+    "verse": "My only aim is to finish the race and complete the task.",
+    "reference": "Acts 20:24"
+  },
+  "42": {
+    "name": "Abishek S",
+    "reg": "Master of Divinity",
+    "verse": "My grace is sufficient for you.",
+    "reference": "2 Corinthians 12:9"
+  },
+  "43": {
+    "name": "Srigiri Johnpal",
+    "reg": "Master of Divinity",
+    "verse": "May the favor of the Lord our God rest on us.",
+    "reference": "Psalm 90:17"
+  },
+  "44": {
+    "name": "Yovan Remington",
+    "reg": "Master of Divinity",
+    "verse": "This is the way; walk in it.",
+    "reference": "Isaiah 30:21"
+  },
+  "45": {
+    "name": "Kittu Joyal Vinay Kumar",
+    "reg": "Master of Divinity",
+    "verse": "I am the light of the world.",
+    "reference": "John 8:12"
+  },
+  "46": {
+    "name": "Subash Rai",
+    "reg": "Master of Divinity",
+    "verse": "Do not be anxious about anything.",
+    "reference": "Philippians 4:6-7"
+  },
+  "47": {
+    "name": "Sam Abishek Joshua",
+    "reg": "Master of Divinity",
+    "verse": "It is God who arms me with strength.",
+    "reference": "Psalm 18:32"
+  },
+  "48": {
+    "name": "Rajamanickam T",
+    "reg": "Master of Divinity",
+    "verse": "The one who calls you is faithful, and he will do it.",
+    "reference": "1 Thessalonians 5:24"
+  },
+  "49": {
+    "name": "Shantial Joseph",
+    "reg": "Master of Divinity",
+    "verse": "Be strong in the Lord and in his mighty power.",
+    "reference": "Ephesians 6:10"
+  },
+  "50": {
+    "name": "Lokam Nikhil",
+    "reg": "Master of Divinity",
+    "verse": "Surely I am with you always.",
+    "reference": "Matthew 28:20"
+  },
+  "51": {
+    "name": "Varri Kiran Paul",
+    "reg": "Master of Divinity",
+    "verse": "For I know the plans I have for you... plans to give you hope and a future.",
+    "reference": "Jeremiah 29:11"
+  },
+  "52": {
+    "name": "Pachigolla Stuthi Kumar",
+    "reg": "Master of Divinity",
+    "verse": "Trust in the LORD with all your heart and lean not on your own understanding.",
+    "reference": "Proverbs 3:5-6"
+  },
+  "53": {
+    "name": "Sedzevizo Luho",
+    "reg": "Master of Divinity",
+    "verse": "Be strong and courageous... the LORD your God will be with you wherever you go.",
+    "reference": "Joshua 1:9"
+  },
+  "54": {
+    "name": "Seelam Uday Bhaskar",
+    "reg": "Master of Divinity",
+    "verse": "He who began a good work in you will carry it on to completion.",
+    "reference": "Philippians 1:6"
+  },
+  "55": {
+    "name": "Issac Raja R",
+    "reg": "Master of Divinity",
+    "verse": "Take delight in the LORD, and he will give you the desires of your heart.",
+    "reference": "Psalm 37:4"
+  },
+  "56": {
+    "name": "Jabash Minj",
+    "reg": "Master of Divinity",
+    "verse": "Do not fear, for I am with you.",
+    "reference": "Isaiah 41:10"
+  },
+  "57": {
+    "name": "Naka Rajiv Kumar",
+    "reg": "Master of Divinity",
+    "verse": "In all things God works for the good of those who love him.",
+    "reference": "Romans 8:28"
+  },
+  "58": {
+    "name": "Steward Moses Lorane M",
+    "reg": "Master of Divinity",
+    "verse": "Seek first his kingdom and his righteousness.",
+    "reference": "Matthew 6:33"
+  },
+  "59": {
+    "name": "Nadipalli Rohith Revelation",
+    "reg": "Master of Divinity",
+    "verse": "Your word is a lamp for my feet, a light on my path.",
+    "reference": "Psalm 119:105"
+  },
+  "60": {
+    "name": "Esudassan E",
+    "reg": "Master of Divinity",
+    "verse": "Whatever you do, work at it with all your heart.",
+    "reference": "Colossians 3:23"
+  },
+  "61": {
+    "name": "Arjun Kumar",
+    "reg": "Master of Divinity",
+    "verse": "God gave us a spirit not of fear but of power and love.",
+    "reference": "2 Timothy 1:7"
+  },
+  "62": {
+    "name": "J Nehemiah Wesley",
+    "reg": "Master of Divinity",
+    "verse": "Let us not become weary in doing good.",
+    "reference": "Galatians 6:9"
+  },
+  "63": {
+    "name": "Vishal M",
+    "reg": "Master of Divinity",
+    "verse": "God is our refuge and strength.",
+    "reference": "Psalm 46:1"
+  },
+  "64": {
+    "name": "Elsy Pratiksha Kamatham",
+    "reg": "Master of Divinity",
+    "verse": "Apart from me you can do nothing.",
+    "reference": "John 15:5"
+  },
+  "65": {
+    "name": "Lydia Kiewhuo",
+    "reg": "Master of Divinity",
+    "verse": "We are God's handiwork, created in Christ Jesus to do good works.",
+    "reference": "Ephesians 2:10"
+  },
+  "66": {
+    "name": "Varri Nishirani",
+    "reg": "Master of Divinity",
+    "verse": "I will instruct you and teach you in the way you should go.",
+    "reference": "Psalm 32:8"
+  },
+  "67": {
+    "name": "Kesia Thomas",
+    "reg": "Master of Divinity",
+    "verse": "Those who hope in the LORD will renew their strength.",
+    "reference": "Isaiah 40:31"
+  },
+  "68": {
+    "name": "Anugaya A",
+    "reg": "Master of Divinity",
+    "verse": "If any of you lacks wisdom, you should ask God.",
+    "reference": "James 1:5"
+  },
+  "69": {
+    "name": "Esther Beulah Merlin S J",
+    "reg": "Master of Divinity",
+    "verse": "Be transformed by the renewing of your mind.",
+    "reference": "Romans 12:2"
+  },
+  "70": {
+    "name": "Detolu Rhakho",
+    "reg": "Master of Divinity",
+    "verse": "Stand firm... always give yourselves fully to the work of the Lord.",
+    "reference": "1 Corinthians 15:58"
+  },
+  "71": {
+    "name": "Mungari Mercy Evangilin Mani",
+    "reg": "Master of Divinity",
+    "verse": "My help comes from the LORD.",
+    "reference": "Psalm 121:1-2"
+  },
+  "72": {
+    "name": "Metekhrieno Sale",
+    "reg": "Master of Divinity",
+    "verse": "Fixing our eyes on Jesus, the pioneer and perfecter of faith.",
+    "reference": "Hebrews 12:2"
+  },
+  "73": {
+    "name": "Mattigunta Poulni",
+    "reg": "Master of Divinity",
+    "verse": "Act justly and to love mercy and to walk humbly with your God.",
+    "reference": "Micah 6:8"
+  },
+  "74": {
+    "name": "Kekhrieno Medoze",
+    "reg": "Master of Divinity",
+    "verse": "Set an example for the believers.",
+    "reference": "1 Timothy 4:12"
+  },
+  "75": {
+    "name": "Magdalene J",
+    "reg": "Master of Divinity",
+    "verse": "Let your light shine before others.",
+    "reference": "Matthew 5:16"
+  },
+  "76": {
+    "name": "Nuam Sian Ciin",
+    "reg": "Master of Divinity",
+    "verse": "The LORD is my light and my salvation.",
+    "reference": "Psalm 27:1"
+  },
+  "77": {
+    "name": "Atseinuo Shuya",
+    "reg": "Master of Divinity",
+    "verse": "Take heart! I have overcome the world.",
+    "reference": "John 16:33"
+  },
+  "78": {
+    "name": "Rokonu Kirha",
+    "reg": "Master of Divinity",
+    "verse": "The LORD himself goes before you and will be with you.",
+    "reference": "Deuteronomy 31:8"
+  },
+  "79": {
+    "name": "Zebiah Y",
+    "reg": "Master of Divinity",
+    "verse": "I can do all this through him who gives me strength.",
+    "reference": "Philippians 4:13"
+  },
+  "80": {
+    "name": "Rhema W",
+    "reg": "Master of Divinity",
+    "verse": "You make known to me the path of life.",
+    "reference": "Psalm 16:11"
+  },
+  "81": {
+    "name": "Pratiksha Deodhar",
+    "reg": "Master of Divinity",
+    "verse": "Cast all your anxiety on him because he cares for you.",
+    "reference": "1 Peter 5:7"
+  },
+  "82": {
+    "name": "Reddyvari Deena Sabitha",
+    "reg": "Master of Divinity",
+    "verse": "Come to me... and I will give you rest.",
+    "reference": "Matthew 11:28"
+  },
+  "83": {
+    "name": "Angel Judith . A",
+    "reg": "Master of Divinity",
+    "verse": "May the God of hope fill you with all joy and peace.",
+    "reference": "Romans 15:13"
+  },
+  "84": {
+    "name": "Jasmine J Mendis",
+    "reg": "Master of Divinity",
+    "verse": "Able to do immeasurably more than all we ask or imagine.",
+    "reference": "Ephesians 3:20"
+  },
+  "85": {
+    "name": "Blessy Rachel J",
+    "reg": "Master of Divinity",
+    "verse": "May he give you the desire of your heart.",
+    "reference": "Psalm 20:4"
+  },
+  "86": {
+    "name": "Samarpan Santhosh Kumar Katta",
+    "reg": "BTh/BSW",
+    "verse": "By this everyone will know that you are my disciples.",
+    "reference": "John 13:35"
+  },
+  "87": {
+    "name": "Moses A U",
+    "reg": "BTh/BSW",
+    "verse": "Continue to live your lives in him, rooted and built up in him.",
+    "reference": "Colossians 2:6-7"
+  },
+  "88": {
+    "name": "Chris Moses s",
+    "reg": "BTh/BSW",
+    "verse": "Show me the way I should go.",
+    "reference": "Psalm 143:8"
+  },
+  "89": {
+    "name": "Kajuluri Ashok Reddy",
+    "reg": "BTh/BSW",
+    "verse": "His compassions never fail. They are new every morning.",
+    "reference": "Lamentations 3:22-23"
+  },
+  "90": {
+    "name": "Selvanathan A",
+    "reg": "BTh/BSW",
+    "verse": "Jesus Christ is the same yesterday and today and forever.",
+    "reference": "Hebrews 13:8"
+  },
+  "91": {
+    "name": "Preet Mary P",
+    "reg": "BTh/BSW",
+    "verse": "My only aim is to finish the race and complete the task.",
+    "reference": "Acts 20:24"
+  },
+  "92": {
+    "name": "Gershon Paul M",
+    "reg": "BTh/BSW",
+    "verse": "My grace is sufficient for you.",
+    "reference": "2 Corinthians 12:9"
+  },
+  "93": {
+    "name": "Lingala Srujith",
+    "reg": "BTh/BA",
+    "verse": "May the favor of the Lord our God rest on us.",
+    "reference": "Psalm 90:17"
+  },
+  "94": {
+    "name": "Prathana Sharon Tigga",
+    "reg": "BTh/BA",
+    "verse": "This is the way; walk in it.",
+    "reference": "Isaiah 30:21"
+  },
+  "95": {
+    "name": "Amos Tamang",
+    "reg": "BTh/BA",
+    "verse": "I am the light of the world.",
+    "reference": "John 8:12"
+  },
+  "96": {
+    "name": "Sam G Isaac",
+    "reg": "BTh/BA",
+    "verse": "Do not be anxious about anything.",
+    "reference": "Philippians 4:6-7"
+  },
+  "97": {
+    "name": "Jerlin Joyce A",
+    "reg": "BTh/BA",
+    "verse": "It is God who arms me with strength.",
+    "reference": "Psalm 18:32"
+  },
+  "98": {
+    "name": "Merugumalla Neelima Paul",
+    "reg": "BTh/BA",
+    "verse": "The one who calls you is faithful, and he will do it.",
+    "reference": "1 Thessalonians 5:24"
+  },
+  "99": {
+    "name": "V Aswin Lazarus",
+    "reg": "BTh/BA",
+    "verse": "Be strong in the Lord and in his mighty power.",
+    "reference": "Ephesians 6:10"
+  },
+  "100": {
+    "name": "Dhan Kumari Budha",
+    "reg": "BTh/BA",
+    "verse": "Surely I am with you always.",
+    "reference": "Matthew 28:20"
+  },
+  "101": {
+    "name": "Gundala Peter Paul",
+    "reg": "BTh/BA",
+    "verse": "Those who hope in the LORD will renew their strength.",
+    "reference": "Isaiah 40:31"
+  },
+  "102": {
+    "name": "Alanna Deborah K A",
+    "reg": "BTh/BA",
+    "verse": "If any of you lacks wisdom, you should ask God.",
+    "reference": "James 1:5"
+  },
+  "103": {
+    "name": "Andrew M Jonathan",
+    "reg": "BTh/BA",
+    "verse": "Be transformed by the renewing of your mind.",
+    "reference": "Romans 12:2"
+  },
+  "104": {
+    "name": "Anusha S",
+    "reg": "BTh/BA",
+    "verse": "Stand firm... always give yourselves fully to the work of the Lord.",
+    "reference": "1 Corinthians 15:58"
+  },
+  "105": {
+    "name": "Grazia Blessie G",
+    "reg": "BTh/BSc",
+    "verse": "My help comes from the LORD.",
+    "reference": "Psalm 121:1-2"
+  },
+  "106": {
+    "name": "Theodor A",
+    "reg": "BTh/BSc",
+    "verse": "Fixing our eyes on Jesus, the pioneer and perfecter of faith.",
+    "reference": "Hebrews 12:2"
+  },
+  "107": {
+    "name": "Sathiyapromoth S",
+    "reg": "BTh/BSc",
+    "verse": "Act justly and to love mercy and to walk humbly with your God.",
+    "reference": "Micah 6:8"
+  },
+  "108": {
+    "name": "Blessed Samuel G J",
+    "reg": "BTh/BSc",
+    "verse": "Set an example for the believers.",
+    "reference": "1 Timothy 4:12"
+  },
+  "109": {
+    "name": "Simon Mangar",
+    "reg": "BTh/BSc",
+    "verse": "Let your light shine before others.",
+    "reference": "Matthew 5:16"
+  },
+  "110": {
+    "name": "Preethy F",
+    "reg": "BTh/BSc",
+    "verse": "The LORD is my light and my salvation.",
+    "reference": "Psalm 27:1"
+  },
+  "111": {
+    "name": "Beryl Miraclyn G",
+    "reg": "BTh/BSc",
+    "verse": "Take heart! I have overcome the world.",
+    "reference": "John 16:33"
+  },
+  "112": {
+    "name": "Jerslin J",
+    "reg": "BTh/BSc",
+    "verse": "The LORD himself goes before you and will be with you.",
+    "reference": "Deuteronomy 31:8"
+  },
+  "113": {
+    "name": "Munagacherla Sharon Daisy",
+    "reg": "BTh/BSc",
+    "verse": "I can do all this through him who gives me strength.",
+    "reference": "Philippians 4:13"
+  },
+  "114": {
+    "name": "Tharun R",
+    "reg": "BTh/BSc",
+    "verse": "You make known to me the path of life.",
+    "reference": "Psalm 16:11"
+  },
+  "115": {
+    "name": "Sanjay A",
+    "reg": "BTh/BSc",
+    "verse": "Cast all your anxiety on him because he cares for you.",
+    "reference": "1 Peter 5:7"
+  },
+  "116": {
+    "name": "Pawar Joseph",
+    "reg": "MSc. Counselling Psychology",
+    "verse": "Come to me... and I will give you rest.",
+    "reference": "Matthew 11:28"
+  },
+  "117": {
+    "name": "Stany Rohan Vas",
+    "reg": "MSc. Counselling Psychology",
+    "verse": "May the God of hope fill you with all joy and peace.",
+    "reference": "Romans 15:13"
+  },
+  "118": {
+    "name": "Johnson .S",
+    "reg": "MSc. Counselling Psychology",
+    "verse": "Able to do immeasurably more than all we ask or imagine.",
+    "reference": "Ephesians 3:20"
+  },
+  "119": {
+    "name": "Meribemo. Y. Murry",
+    "reg": "MSc. Counselling Psychology",
+    "verse": "May he give you the desire of your heart.",
+    "reference": "Psalm 20:4"
+  },
+  "120": {
+    "name": "K.V.Thomas",
+    "reg": "MSc. Counselling Psychology",
+    "verse": "By this everyone will know that you are my disciples.",
+    "reference": "John 13:35"
+  },
+  "121": {
+    "name": "Karon Jose",
+    "reg": "MSc. Counselling Psychology",
+    "verse": "Continue to live your lives in him, rooted and built up in him.",
+    "reference": "Colossians 2:6-7"
+  },
+  "122": {
+    "name": "Paul Karl Victor",
+    "reg": "MSc. Counselling Psychology",
+    "verse": "Show me the way I should go.",
+    "reference": "Psalm 143:8"
+  },
+  "123": {
+    "name": "Blessing Jeba Raj",
+    "reg": "MSc. Counselling Psychology",
+    "verse": "His compassions never fail. They are new every morning.",
+    "reference": "Lamentations 3:22-23"
+  },
+  "124": {
+    "name": "Saru Marium Sabu",
+    "reg": "MSc. Counselling Psychology",
+    "verse": "Jesus Christ is the same yesterday and today and forever.",
+    "reference": "Hebrews 13:8"
+  },
+  "125": {
+    "name": "Jerin Cheeran",
+    "reg": "MSc. Counselling Psychology",
+    "verse": "My only aim is to finish the race and complete the task.",
+    "reference": "Acts 20:24"
+  },
+  "126": {
+    "name": "Jehol",
+    "reg": "MSc. Counselling Psychology",
+    "verse": "My grace is sufficient for you.",
+    "reference": "2 Corinthians 12:9"
+  },
+  "127": {
+    "name": "Priyanka",
+    "reg": "MSc. Counselling Psychology",
+    "verse": "May the favor of the Lord our God rest on us.",
+    "reference": "Psalm 90:17"
+  },
+  "128": {
+    "name": "Achsah",
+    "reg": "MSc. Counselling Psychology",
+    "verse": "This is the way; walk in it.",
+    "reference": "Isaiah 30:21"
+  },
+  "129": {
+    "name": "Viseneinuo",
+    "reg": "MSc. Counselling Psychology",
+    "verse": "I am the light of the world.",
+    "reference": "John 8:12"
+  },
+  "130": {
+    "name": "Koppula Deenathma",
+    "reg": "MSc. Counselling Psychology",
+    "verse": "Do not be anxious about anything.",
+    "reference": "Philippians 4:6-7"
+  },
+  "131": {
+    "name": "Angelina Maria P",
+    "reg": "MSc. Counselling Psychology",
+    "verse": "It is God who arms me with strength.",
+    "reference": "Psalm 18:32"
   }
 }
